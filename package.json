@@ -24,7 +24,7 @@
     "@types/mqtt": "0.0.32",
     "@types/node": "0.0.2",
     "axios": "^0.15.2",
-    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken": "^9.0.0",
     "mosca": "^2.2.0",
     "mqtt": "^1.7.4"
   },
