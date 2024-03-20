@@ -23,7 +23,7 @@
     "@types/jsonwebtoken": "^7.1.33",
     "@types/mqtt": "0.0.32",
     "@types/node": "0.0.2",
-    "axios": "^0.15.2",
+    "axios": "^0.21.1",
     "jsonwebtoken": "^7.1.9",
     "mosca": "^2.2.0",
     "mqtt": "^1.7.4"
